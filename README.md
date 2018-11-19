@@ -9,6 +9,7 @@ hodgkin_twosample_CSHOCH: Conduct Two sample joint tests for CSH and OCH, and pr
 
 Example 2: BMT
 bmt_data.csv: data file
+bmt_dataCleaning: cleaning data and create necessary variables
 BMT_twosample_CSHACH: Conduct two sample joint tests for CSH and ACH, and produce confidence region
 BMT_twosample_CSHCIF: Conduct Two sample joint tests for CSH and CIF
 BMT_twosample_CSHOCH: Conduct Two sample joint tests for CSH and OCH, and produce confidence region
