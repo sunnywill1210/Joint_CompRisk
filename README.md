@@ -3,6 +3,7 @@ R coding for examples
 
 Example 1: Hodgkin disease
 hodgkin.txt: data file
+CSHandCIFcomparison: produce figures for CSH and CIF for different age groups.
 hodgkin_twosample_CSHACH: Conduct two sample joint tests for CSH and ACH, and produce confidence region
 hodgkin_twosample_CSHCIF: Conduct Two sample joint tests for CSH and CIF
 hodgkin_twosample_CSHOCH: Conduct Two sample joint tests for CSH and OCH, and produce confidence region
